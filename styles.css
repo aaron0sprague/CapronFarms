@@ -1,3 +1,18 @@
+:root {
+	--primary1: #2F3E46;/* Charcoal */
+	--primary2: #52796F;/* Hooker Green */
+    --primary3: #3F6615;/* Dark Olive Green */
+	--secondary1: #B7CDCB;/* Opal */
+	--secondary2: #89AA38;/* Apple Green */
+	--secondary3: #91965B;/* Moss Green */
+	--secondary4: #41B6E6;/* Cyan Process */
+	--secondary5: #01426A;/* Indigo Dye */
+	--tertiary1: #85A39D;/* Morning Blue */
+	--tertiary2: #738689;/* Steel Teal */
+	--tertiary3: #F2ED6F;/* Corn */
+	--tertiary4: #1F6600;/* Dark Green X 11 */
+  }
+
 *{
     margin:0;
     padding:0;
