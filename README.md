@@ -1,2 +1,4 @@
 # CapronFarms
-eCommerce site for my startup Capron Farms
+eCommerce site for Capron Farms
+
+
