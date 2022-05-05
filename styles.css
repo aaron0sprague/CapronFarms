@@ -23,6 +23,13 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 415px;
+    height: 87px;
+  }
 .navbar{
     display:flex;
     align-items: center;
@@ -221,8 +228,8 @@ small{
     font-size:16px;
 }
 
-/*brands*/
-.brands{
+/*partners*/
+.partners{
     margin:100px auto;
 }
 
